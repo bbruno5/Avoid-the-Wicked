@@ -1,0 +1,26 @@
+======================Avoid the Wicked======================
+
+Beside his bedroom, the little boy wakes up and find monsters trying to catch him. A nightmare? Maybe... The little boy don't wan't to know.
+Help him to survive one minute, and maybe the monsters go away.
+But, there are clues too... After all, something goes wrong. Wrong and gory!
+
+
+Avoid the wicked is a game, created entirely by me. Consists in run away from unfriendly pursuers. It is possible to submit your score to an online page where there is just the highest score for each level. For that, you must overcome me :) So... there is a section in the game, named Global best score, wich shows the best scores of all gamers. Other section, named about, where are some information about the game. The final section is the Settings, where we have three options: Set name, Audio On/Off and Difficulty.
+
+- Menu: Press A in options to select.
+
+- Global best score: In this section is possible for you see the best score at the moment and submit yours using Y, in possibility of you overcome me. Press B for exit this section.
+
+- About: Press B to return.
+
+- Settings:
+
+    - Set name: type your name and press A to save or only press A to save as 'none'. Press R to delete the name in the screen and B to exit.
+
+    - Audio On/Off: press A in this option and the tag will change. So, press B to return to menu for complete change.
+
+    - Difficulty: Select your preferred level pressing A, but I advise you to not use the "I'm a baby" level. If you entered in this section by mistake, press B to return.
+
+- Play: Pressing Play, the screen change and show the wickeds and you in the center. Press A again to start the game. You can control the boy with a Joystick or D-pad. It is possible pause the game with A too, or abandon the current game pressing B. In this screen is possible too, submit your score pressing Y. If you press SELECT, the game wiil be closed, but in other parts this don't works. The movement of the wickeds is random, so do not try to learn a sequence ;) and caution, in the first contact you can scare yourself a bit >:)
+
+bbruno5.
